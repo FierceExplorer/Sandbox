@@ -1,15 +1,17 @@
+import math 
+import animation
 # Creates Title 
-border = "=" * 40
-banner = f"\n{border}\nWhat do you want to do with the list\n{border}"
+border = "=" * 20
+banner = f"\n{border}\nMenu\n{border}"
 
 def menu():
   print(banner)
   options = [
-    ["sum", "sum.py"],
-    ["average","average.py"],
-    ["median", "median.py"],
-    ["mode","mode.py"],
-    ["range","range.py"]
+    ["swap", "swap.py"], 
+    ["matrix", "matrix.py"], 
+    ["pyramid", "pyramid.py"],
+    ["pyramid 2.0", "pyramid 2.0.py"],
+    ["animations", animation.ship]
   ]
 
   functions = {}
