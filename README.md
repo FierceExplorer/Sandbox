@@ -4,8 +4,9 @@ This is my individual repository. It will have an individual github page with al
 [Individual Replit](https://replit.com/@EthanGuo6/Sandbox#main.py)      
 # Week 0 
 [CollegeBoard Notes](https://github.com/FierceExplorer/Sandbox/wiki/CollegeBoard-Notes)     
-[Replit Project Wiki Page](https://github.com/FierceExplorer/Sandbox/wiki/Replit-Project)
-[Create Task](https://replit.com/@EthanGuo6/Create-Task-Project)  
+[Replit Project Wiki Page](https://github.com/FierceExplorer/Sandbox/wiki/Replit-Project)      
+[Create Task Wiki Page](https://github.com/FierceExplorer/Sandbox/wiki/Create-Task--Ethan-Guo) 
+
 TPT 0.1   
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
    * Benefits : acces to almost all the knowledge of the world with the internet, worldwide connections to other people all around the world, allows humans to do things that are almost impossible by hand such as massive algebraic equations or creating simulatiosn 
