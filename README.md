@@ -1,7 +1,9 @@
 # Sandbox
 This is my individual repository. It will have an individual github page with all the work on it including notes for TPT and Collegeboard.   
-[Jekyll Page](https://fierceexplorer.github.io/Sandbox/)
+[Jekyll Page](https://fierceexplorer.github.io/Sandbox/)     
+[Individual Replit](https://replit.com/@EthanGuo6/Sandbox#main.py)      
 # Week 0 
+[CollegeBoard Notes](https://github.com/FierceExplorer/Sandbox/wiki/CollegeBoard-Notes)     
 TPT 0.1   
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
    * Benefits : acces to almost all the knowledge of the world with the internet, worldwide connections to other people all around the world, allows humans to do things that are almost impossible by hand such as massive algebraic equations or creating simulatiosn 
