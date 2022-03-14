@@ -4,6 +4,8 @@ This is my individual repository. It will have an individual github page with al
 [Individual Replit](https://replit.com/@EthanGuo6/Sandbox#main.py)      
 # Week 0 
 [CollegeBoard Notes](https://github.com/FierceExplorer/Sandbox/wiki/CollegeBoard-Notes)     
+[Replit Project Wiki Page](https://github.com/FierceExplorer/Sandbox/wiki/Replit-Project)
+[Create Task](https://replit.com/@EthanGuo6/Create-Task-Project)  
 TPT 0.1   
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
    * Benefits : acces to almost all the knowledge of the world with the internet, worldwide connections to other people all around the world, allows humans to do things that are almost impossible by hand such as massive algebraic equations or creating simulatiosn 
@@ -22,5 +24,5 @@ TPT 0.2
 
 
 TT0 
-[Replit Page](https://replit.com/@EthanGuo6/Sandox#main.py)    
+[Create Task](https://replit.com/@EthanGuo6/Create-Task-Project)    
 This replit page actually contains a menu which is for my create task project. There are currently 5 things you can do with the menu which is finding the sum, average, median, mode and range of an inputted list.   
