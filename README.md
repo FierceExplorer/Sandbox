@@ -6,6 +6,7 @@ This is my individual repository. It will have an individual github page with al
 [CollegeBoard Notes](https://github.com/FierceExplorer/Sandbox/wiki/CollegeBoard-Notes)     
 [Replit Project Wiki Page](https://github.com/FierceExplorer/Sandbox/wiki/Replit-Project)      
 [Create Task Wiki Page](https://github.com/FierceExplorer/Sandbox/wiki/Create-Task--Ethan-Guo) 
+[Individual Review Ticket](https://github.com/FierceExplorer/Sandbox/issues/6)
 
 TPT 0.1   
 1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
@@ -27,3 +28,6 @@ TPT 0.2
 TT0 
 [Create Task](https://replit.com/@EthanGuo6/Create-Task-Project)    
 This replit page actually contains a menu which is for my create task project. There are currently 5 things you can do with the menu which is finding the sum, average, median, mode and range of an inputted list.   
+# Week 1 
+[CollegeBoard Notes](https://github.com/FierceExplorer/Sandbox/wiki/CollegeBoard-Notes)      
+TPT 1.0    
