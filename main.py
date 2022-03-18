@@ -11,7 +11,8 @@ def menu():
     ["matrix", "matrix.py"], 
     ["pyramid", "pyramid.py"],
     ["pyramid 2.0", "pyramid 2.0.py"],
-    ["animations", animation.ship]
+    ["animations", animation.ship],
+    ["list practice", "lists.py"]
   ]
 
   functions = {}
