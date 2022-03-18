@@ -7,7 +7,7 @@ This is my individual repository. It will have an individual github page with al
 # Week 0 
 
 [Replit Project Wiki Page](https://github.com/FierceExplorer/Sandbox/wiki/Replit-Project)      
-[Create Task Wiki Page](https://github.com/FierceExplorer/Sandbox/wiki/Create-Task--Ethan-Guo) 
+[Create Task Wiki Page](https://github.com/FierceExplorer/Sandbox/wiki/Create-Task--Ethan-Guo)    
 [Individual Review Ticket](https://github.com/FierceExplorer/Sandbox/issues/6)
 
 TPT 0.1   
