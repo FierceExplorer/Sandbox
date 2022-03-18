@@ -1,19 +1,49 @@
 import math 
 import animation
-# Creates Title 
-border = "=" * 20
-banner = f"\n{border}\nMenu\n{border}"
+import InfoDb
 
-def menu():
-  print(banner)
-  options = [
+# Creates Title 
+border = "=" * 25
+banner = f"\n{border}\nPlease Select An Option\n{border}"
+
+
+# List of Week 0 Stuff
+week_0_func = [
     ["swap", "swap.py"], 
     ["matrix", "matrix.py"], 
     ["pyramid", "pyramid.py"],
     ["pyramid 2.0", "pyramid 2.0.py"],
     ["animations", animation.ship],
-    ["list practice", "lists.py"]
   ]
+
+# List of Week 1 Stuff 
+week_1_func = [
+  ["InfoDb loops", InfoDb.InfoDb_loops],
+  ["InfoDb factorial", InfoDb.InfoDb_factorial],
+  ["InfoDb fibonacci", InfoDb.InfoDb_fibonacci]
+]
+
+# Function for week 0 menu 
+def build_week_0_():
+  print()
+  title = "Week 0" + banner
+  buildmenu(title, week_0_func)
+
+# Function for week 1 menu 
+def build_week_1_():
+  print()
+  title = "Week 1" + banner
+  buildmenu(title, week_1_func)
+
+# Create Weeks Menu 
+week_menu =[
+  ["week 0", build_week_0_],
+  ["week 1", build_week_1_]
+]
+
+def buildmenu(banner, options):
+  print(banner)
+
 
   functions = {}
   functions[0] = ["Exit"] 
@@ -28,10 +58,6 @@ def menu():
     print(key, '->', value[0])
 
   
-#  number = 1 
-#  for thing in functions: 
-#    print( str(number) + " " + str(thing)
-#    number = int(number) + 1  
 
 
 
@@ -57,7 +83,7 @@ def menu():
   except: #traps all other errors
     print(f"Invalid choice: {choice}")
 
-  menu()
+  buildmenu(banner, options)
 
 if __name__ == "__main__": 
-  menu()
+  buildmenu(banner, week_menu)
