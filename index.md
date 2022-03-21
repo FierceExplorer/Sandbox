@@ -16,7 +16,7 @@ TPT 0.1
    * I think dopamine issues are a real thing and that there truly can be problems with how people get their dopamine especially when it becomes addictive and affects their life. However, I feel it is unfair to just say video games shouldn't be used as dopamine since everyone get's their dopamine in different ways. The only real thing impacting my studies right now is trying to balance everything in my life right now.     
 
 
-TPT 0.2 
+TPT 0.2   
 1. How does someone empower themself in a digital world?
    * Someone can empower themselves in the digital world by gaing access to tons of different things on the internet. They can access to tons of email accounts and gain access to tons of information every where. They have to power to contact people from anywhere in the world and they can gain access to other posts on Twitter, Facebook, Instagram and more. 
 2. How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
