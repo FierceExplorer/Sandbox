@@ -1,6 +1,10 @@
 import math 
-import animation
-import InfoDb
+from week_0 import animation
+from week_1 import InfoDb
+from week_2 import classes, palindrome
+
+
+
 
 # Creates Title 
 border = "=" * 25
@@ -23,6 +27,12 @@ week_1_func = [
   ["InfoDb fibonacci", InfoDb.InfoDb_fibonacci]
 ]
 
+week_2_func = [
+  ["Fibonacci Class", classes.fib_test],
+  ["Combination Class", classes.comb_test],
+  ["Palindrome Class", palindrome.palin_test]
+]
+
 # Function for week 0 menu 
 def build_week_0_():
   print()
@@ -35,10 +45,15 @@ def build_week_1_():
   title = "Week 1" + banner
   buildmenu(title, week_1_func)
 
+def build_week_2_():
+  print()
+  title = "Week 2 " + banner
+  buildmenu(title, week_2_func)
 # Create Weeks Menu 
 week_menu =[
   ["week 0", build_week_0_],
-  ["week 1", build_week_1_]
+  ["week 1", build_week_1_],
+  ["week 2", build_week_2_]
 ]
 
 def buildmenu(banner, options):
