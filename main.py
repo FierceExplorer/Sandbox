@@ -12,48 +12,48 @@ banner = f"\n{border}\nPlease Select An Option\n{border}"
 
 
 # List of Week 0 Stuff
-week_0_func = [
-    ["swap", "swap.py"], 
-    ["matrix", "matrix.py"], 
-    ["pyramid", "pyramid.py"],
-    ["pyramid 2.0", "pyramid 2.0.py"],
-    ["animations", animation.ship],
+math_func = [
+    ["InfoDb factorial", InfoDb.InfoDb_factorial],
+    ["InfoDb fibonacci", InfoDb.InfoDb_fibonacci],
+    ["Fibonacci Class", classes.fib_test],
+    ["Combination Class", classes.comb_test],
+    ["Palindrome Class", palindrome.palin_test]
   ]
 
 # List of Week 1 Stuff 
-week_1_func = [
-  ["InfoDb loops", InfoDb.InfoDb_loops],
-  ["InfoDb factorial", InfoDb.InfoDb_factorial],
-  ["InfoDb fibonacci", InfoDb.InfoDb_fibonacci]
+patterns_func = [
+  ["swap", "week_0/swap.py"], 
+  ["matrix", "week_0/matrix.py"], 
+  ["pyramid", "week_0/pyramid.py"],
+  ["pyramid 2.0", "week_0/pyramid 2.0.py"],
+  ["animations", animation.ship],
 ]
 
-week_2_func = [
-  ["Fibonacci Class", classes.fib_test],
-  ["Combination Class", classes.comb_test],
-  ["Palindrome Class", palindrome.palin_test]
+misc_func = [
+  ["InfoDb loops", InfoDb.InfoDb_loops],
 ]
 
 # Function for week 0 menu 
-def build_week_0_():
+def math_menu():
   print()
-  title = "Week 0" + banner
-  buildmenu(title, week_0_func)
+  title = "Math" + banner
+  buildmenu(title, math_func)
 
 # Function for week 1 menu 
-def build_week_1_():
+def patterns_menu():
   print()
-  title = "Week 1" + banner
-  buildmenu(title, week_1_func)
+  title = "Patterns" + banner
+  buildmenu(title, patterns_func)
 
-def build_week_2_():
+def misc_menu():
   print()
-  title = "Week 2 " + banner
-  buildmenu(title, week_2_func)
+  title = "Miscellaneous" + banner
+  buildmenu(title, misc_func)
 # Create Weeks Menu 
-week_menu =[
-  ["week 0", build_week_0_],
-  ["week 1", build_week_1_],
-  ["week 2", build_week_2_]
+menu_list =[
+  ["Math", math_menu],
+  ["Patterns", patterns_menu],
+  ["Miscellaneous", misc_menu]
 ]
 
 def buildmenu(banner, options):
@@ -101,4 +101,4 @@ def buildmenu(banner, options):
   buildmenu(banner, options)
 
 if __name__ == "__main__": 
-  buildmenu(banner, week_menu)
+  buildmenu(banner, menu_list)
