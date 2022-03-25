@@ -1,8 +1,10 @@
+import re
+
 class Palindrome:     
   def __call__(self, word):
-    if 1 == len(word):
-      return true 
-    return word == word[::-1]
+    str(word)
+    new_word = (re.sub('[^a-zA-Z0-9]', '', word)).lower()
+    return new_word == new_word[::-1]
 
 
 def palin_test():
@@ -11,7 +13,7 @@ def palin_test():
   if palin_of(word):
     print(word + " is a palindrome.")
   else:
-    print(word + " is not a palindrom.")
+    print(word + " is not a palindrome.")
 
 
 
