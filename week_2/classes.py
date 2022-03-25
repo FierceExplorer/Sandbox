@@ -17,6 +17,10 @@ def fib_test():
   term = int(input("Enter term for fibonacci: "))
   print(fibo_of(term)) # object running __call__ method
 
+def combination_list(n, r):
+  comb = InfoDb.recur_factorial(n) / (InfoDb.recur_factorial(r) * InfoDb.recur_factorial(n - r))
+  return int(comb)
+
 
 class Combination: 
   def __init__(self):

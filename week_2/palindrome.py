@@ -12,10 +12,10 @@ def palin_test():
   word = input("Enter word: ")
   if palin_of(word):
     print(word + " is a palindrome.")
-  else:
+  elif palin_of(word) == False:
     print(word + " is not a palindrome.")
-
-
+  else:
+    print("Oh no! Something went wrong!")
 
 
     
