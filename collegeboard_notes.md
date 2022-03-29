@@ -1,5 +1,7 @@
 {% include notes.html %}
 
+
+
 5.1 Video Notes    
 Beneficial and Harmful effects of Technology    
 Accelerometers     
