@@ -1,6 +1,6 @@
 {% includes notes.html %}
 
-**5.1 Video Notes    **
+**5.1 Video Notes**
 
 Beneficial and Harmful effects of Technology    
 Accelerometers     
@@ -38,7 +38,7 @@ Responsible programmers try to consider their unintended ways their competing in
 It is not possible for a programmer to consider all the ways a computing innovation can be used.    
 Rapid sharing of a program or running a program with a large number of users can result in significant impacts beyond the intended purpose or control of the programmer.     
 
-**5.2 Digital Divide Video One   ** 
+**5.2 Digital Divide Video One** 
 
 Digital Divide    
 - refers to differing access to computing devices and the Internet based on socioeconomic, geographic, or demographic characteristics   
