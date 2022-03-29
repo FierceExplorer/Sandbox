@@ -1,4 +1,4 @@
-{% includes notes.html %}
+{% include notes.html %}
 
 **5.1 Video Notes**
 
