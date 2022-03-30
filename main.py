@@ -2,6 +2,7 @@ import math
 from week_0 import animation
 from week_1 import InfoDb
 from week_2 import classes, palindrome
+from week_3 import prime
 
 
 
@@ -17,7 +18,8 @@ math_func = [
     ["InfoDb fibonacci", InfoDb.InfoDb_fibonacci],
     ["Fibonacci Class", classes.fib_test],
     ["Combination Class", classes.comb_test],
-    ["Palindrome Class", palindrome.palin_test]
+    ["Palindrome Class", palindrome.palin_test],
+    ["Primes", prime.primes],
   ]
 
 # List of Week 1 Stuff 
