@@ -1,5 +1,5 @@
 
-# Function to find a range of primes
+# This function helps to find the prime numbers in a givern range
 
 def findprimes(min, max):
     for Number in range(min, max + 1):
@@ -14,6 +14,6 @@ def findprimes(min, max):
 
 
 def primes():
-    minimum = int(input(" Enter the Minimum Value for Primes: "))
-    maximum = int(input(" Enter the Maximum Value for Primes: "))
+    minimum = int(input(" Choose a Number: "))
+    maximum = int(input(" Choose another number: "))
     findprimes(minimum, maximum)
