@@ -2,9 +2,9 @@ import math
 from week_0 import animation
 from week_1 import InfoDb
 from week_2 import classes, palindrome
-from week_3 import prime, gcf
+from week_3 import prime, gcf, circle
 text_color = u"\u001b[38;5;46m"
-print(text_color)
+# print(text_color)
 
 
 
@@ -22,6 +22,7 @@ math_func = [
     ["Palindrome Class", palindrome.palin_test],
     ["Primes", prime.primes],
     ["GCF", gcf.gcd],
+    ["Circle", circle.arclength],
   ]
 
 # List of Week 1 Stuff 
