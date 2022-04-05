@@ -1,3 +1,4 @@
+# pi is equal to 22/7 because that's the numerical estimation of pi
 def arclength():
     pi=22/7
     diameter = float(input('Enter the Diameter of the Circle: '))

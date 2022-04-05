@@ -13,10 +13,10 @@ def findgcd(num1, num2):
             num2 = num2 - num1
     return num1
 
-
+# a and b in this instance are tied to the inputs of the user and the gcd function finds the gcds of user's inputs.
 def gcd():
-    a = int(input(" Enter the First Value for GCD: "))
-    b = int(input(" Enter the Second Value for GCD: "))
+    a = int(input(" Enter a value: "))
+    b = int(input(" Pick another Number: "))
     gcd = findgcd(a, b)
-    print("\n GCD of {0} and {1} is: {2}".format(a, b, gcd))
+    print("\n The GCF of {0} and {1} is: {2}".format(a, b, gcd))
     print()
