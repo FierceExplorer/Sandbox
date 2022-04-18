@@ -11,7 +11,7 @@ Idea: The program accepts a list of numbers and then you can tell it what you wa
 * Output: The output will be completely text and numbers.
 
 ### Result 
-[https://replit.com/@EthanGuo6/Sandox#main.py](https://replit.com/@EthanGuo6/Create-Task-Project#main.py)  
+[https://replit.com/@EthanGuo6/Create-Task-Project#main.py](https://replit.com/@EthanGuo6/Create-Task-Project#main.py)  
 
 [1 Minute Video ](https://www.loom.com/share/883d203f96ab475d82ff387ac09d1452)  
 
