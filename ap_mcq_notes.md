@@ -14,4 +14,11 @@ For this question, I had chosen that by compressing files, the file and data cou
 
 Question 44 - Which of the following is LEAST likely to indicate a phishing attack?    
 
-For this question, I had misread the answers and didn't understand it fully. The correct was that the bank asks you to call the number on the back of the card to verify a transaction. I didn't understand this when I first read it and didn't realize it meant the bank's phone number. Because it's the bank's phone number, that is public and therefore if you call the number and follow the instructions, it's a very very high likelyhood that this is not a phishing attack. 
+For this question, I had misread the answers and didn't understand it fully. The correct was that the bank asks you to call the number on the back of the card to verify a transaction. I didn't understand this when I first read it and didn't realize it meant the bank's phone number. Because it's the bank's phone number, that is public and therefore if you call the number and follow the instructions, it's a very very high likelyhood that this is not a phishing attack.    
+### Finals Quiz 2 - April 21, 2022 
+Score 49/50     
+Question 18 - Consider the following code segment.   
+![image](https://user-images.githubusercontent.com/89167174/164787096-398c71ba-7ce7-44d8-a715-f899cd835b14.png)
+Which of the following best describes the behavior of the code segment?     
+
+For this question, I had misread the question and didn't understand the code properly. I had assumed that since it was multiplying 5 three times, it was (5 * 3). However, this is obviously 5^3 and so that's why the answer is 2(5^3). 
