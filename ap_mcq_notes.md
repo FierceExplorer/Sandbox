@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ### Finals Quiz 1 - April 19, 2022 
 Score 46/50    
 Question 23 - Which of the following has the greatest potential for compromising a user’s personal privacy?     
