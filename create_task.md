@@ -15,7 +15,7 @@ Idea: The program accepts a list of numbers and then you can tell it what you wa
 
 [1 Minute Video ](https://www.loom.com/share/883d203f96ab475d82ff387ac09d1452)  
 
-[Part 3 Questions and Responses](https://github.com/yqw7/dominators/wiki/Create-Task--Ethan-Guo-Written-Responses)
+[Part 3 Questions and Responses](https://github.com/FierceExplorer/Sandbox/wiki/Create-Task---Written-Response)
 
 This is the result of the Create Task Project. **This is not complete**  
 
