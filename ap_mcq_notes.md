@@ -47,11 +47,24 @@ Question 23 - Which of the following hypotheses is most consistent with the data
 For this question, it asked for a trend in the table given to us. I had stated that the number of daily messages sent per user has not changed but the correct answer was that the length of texts got shortes since the release of the mobile app. Although both are true, the trend in the length of texts is more supported by the data so that is the correct answer. 
 
 Question 20 - Consider the following numeric values.      
-    
-* Binary 1011   
-* Binary 1101  
-* Decimal 5   
-* Decimal 12  
-Which of the following lists the values in order from least to greatest?   
+### Finals Quiz 5 - May 5, 2022 
+Score 45/50      
+Question 16 - Which of the following best compares the values displayed by programs A and B?     
+![image](https://user-images.githubusercontent.com/89167174/167010679-3ae4ce82-efb6-4633-a677-dce9ba5fdb67.png)      
 
-I had figured out the values. I was just not thinking clearly and did the problem too fast so I messed it up. 1011 in decimal is 11 while 1101 is 13. Therefore the order should be Decimal 5 -> Binary 1011 -> Decimal 12 -> Binary 1101. 
+For this question, I did not realize that i started as different values in the two different programs. In program B, i starts at 0 so even if i adds one before it's printed, it will start at 1 and print every number until 10. In program A, i starts at 1 and it first prints i then displays it. That means the result of program A and B will be the numbers from 1 to 10 so therefore they will display the same result. 
+
+Question 43 - Which of the following statements about the Internet is true?    
+
+To answer this question, you just need to know the answer. I chose that all communication must be encrypted however I realize now that the Internet isnot always secure and encryption is not always needed. The right answer was that "The Internet was designed to scale to support an increasing number of users."      
+
+Question 45 - Which of the following best describes the two code segments?     
+![image](https://user-images.githubusercontent.com/89167174/167012840-b30eea1d-e64e-4120-9f99-d0f368f86472.png)     
+
+
+For this question, I did not realize that program 1 could have got the average. That is why I did not think that program 1 was correct. After looking a test, it's clear that program 1 does work. It is clear that program 1 must have use more arithmetic operations since the sum is divided every time the loop runs.      
+
+Question 48 - Which of the following best explains how a certificate authority is used in protecting data?     
+
+For this question, I had no idea what a certificate authority was. So I guessed and got it wrong. "A certificate authority verifies the authenticity of encryption keys used in secured communications."      
+
