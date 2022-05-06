@@ -48,7 +48,7 @@ For this question, it asked for a trend in the table given to us. I had stated t
 
 Question 20 - Consider the following numeric values.      
 ### Finals Quiz 5 - May 5, 2022 
-Score 45/50      
+Score 46/50      
 Question 16 - Which of the following best compares the values displayed by programs A and B?     
 ![image](https://user-images.githubusercontent.com/89167174/167010679-3ae4ce82-efb6-4633-a677-dce9ba5fdb67.png)      
 
